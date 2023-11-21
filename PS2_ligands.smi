@@ -1,0 +1,5 @@
+Cc1cc(c(c(c1)C)S(=O)(=O)N[C@@H](C)CNc2cccc3c2cnn3c4ccc(cc4)F)C Ligand1
+Cc1cc(c2cnn(c2c1)c3cccc(c3)C(=O)N4CCCC4C(=O)N)NCC(CC(C)(C)c5cc(ccc5OC)F)(C(F)(F)F)O Ligand2
+CC1=CN=C(C=C1C2=C(NC3=C2C=C(C=C3NS(=O)(=O)C)C(C)(C)C)C)F Ligand3
+[H][C@@]12CC[C@@](O)(C#CC)[C@@]1(C)C[C@@H](C1=C3CCC(=O)C=C3CC[C@@]21[H])c1ccc(cc1)N(C)C Ligand4
+C[C@@H]1C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]2(C)[C@@]1(OC(=O)c1ccco1)C(=O)SCF Ligand5
